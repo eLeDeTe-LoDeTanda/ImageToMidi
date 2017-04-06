@@ -6,3 +6,5 @@
 
 **"Image To Midi"** Is a very simple program I made that allows you to take any image (jpg, png, tga, gif) and use it as a musical instrument. A tool for musical compositions and sound design.
 
+Captura - Screenshot
+![](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/ImageToMidi-Screenshot.jpg)
