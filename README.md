@@ -1,6 +1,6 @@
 # ImageToMidi
 
-![]()
+![](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/data/imagetomidi_logo.png)
 
 "**Image To Midi"** es un muy simple programa que hice. Permite tomar cualquier imagen (jpg, png, tga, gif) y usarla como si fuera un instrumento musical. Una herramienta para composición musical y diseño de sonido.
 
