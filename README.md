@@ -10,3 +10,8 @@ Captura - Screenshot
 ![](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/ImageToMidi-Screenshot.jpg)
 
 [VIDEO TEST1](https://youtu.be/TVMb8cLJmJM)
+
+La próxima semana listo para decargar
+
+
+The next week ready for download
