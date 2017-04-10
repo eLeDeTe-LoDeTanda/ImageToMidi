@@ -11,7 +11,7 @@ Captura - Screenshot
 
 [![Video Test1](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/videotest.jpg)](https://www.youtube.com/playlist?list=PLEpIvBicaTn5QSKpHWgmCXEr50D0Ed6fJ)
 
-La próxima semana listo para decargar
 
+En unos días listo para decargar
 
-The next week ready for download
+In a few days ready to download
