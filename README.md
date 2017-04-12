@@ -26,9 +26,10 @@ Soporte jack en linux:
 En un terminal: ` sudo modprobe snd-virmidi ` y conectar el midi virtual elegido al programa midi a usar.
 
 
-Captura - Screenshot
+### Captura - Screenshot
 ![](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/ImageToMidi-Screenshot.jpg)
 
+### Videos
 [![Video Test1](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/videotest.jpg)](https://www.youtube.com/playlist?list=PLEpIvBicaTn5QSKpHWgmCXEr50D0Ed6fJ)
 
 
