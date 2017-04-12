@@ -33,6 +33,41 @@ En un terminal: ` sudo modprobe snd-virmidi ` y conectar el midi virtual elegido
 [![Video Test1](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/videotest.jpg)](https://www.youtube.com/playlist?list=PLEpIvBicaTn5QSKpHWgmCXEr50D0Ed6fJ)
 
 
-En unos días listo para decargar
 
-In a few days ready to download
+## Descargas - Downloads
+
+**LINUX (Java inside)**
+
+
+**[ImageToMidiv1.0_linux64-with_java8]()**
+
+##
+
+**LINUX (Requires Java 8)**
+
+
+**[ImageToMidiv1.0_linux64]()**
+
+
+**[ImageToMidiv1.0_linux32]()**
+
+
+**[ImageToMidiv1.0_linux-armv6hf]()**
+
+##
+
+**Windows (Requires Java 8) No tested**
+
+
+**[ImageToMidiv1.0_windows64]()**
+
+
+**[ImageToMidiv1.0_windows32]()**
+
+##
+
+**[Download jAVA 8](https://www.java.com/en/download/)**
+
+##
+##
+
