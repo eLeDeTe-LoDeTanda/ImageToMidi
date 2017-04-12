@@ -24,7 +24,7 @@ Botón derecho del mouse (Cargar imagenes: jpg, png, tga o gif)
 
 Soporte jack en linux: 
 En un terminal: ` sudo modprobe snd-virmidi ` y conectar el midi virtual elegido al programa midi a usar.
-
+##
 
 ### Captura - Screenshot
 ![](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/ImageToMidi-Screenshot.jpg)
@@ -32,37 +32,35 @@ En un terminal: ` sudo modprobe snd-virmidi ` y conectar el midi virtual elegido
 ### Videos
 [![Video Test1](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/videotest.jpg)](https://www.youtube.com/playlist?list=PLEpIvBicaTn5QSKpHWgmCXEr50D0Ed6fJ)
 
-
-
+##
 ## Descargas - Downloads
 
 **LINUX (Java inside)**
 
-
-**[ImageToMidiv1.0_linux64-with_java8]()**
+**[ImageToMidi_v1.0-linux64-with_java8](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/ImageToMidi_v1.0-linux64-with_java8.tar.bz2)**
 
 ##
 
 **LINUX (Requires Java 8)**
 
 
-**[ImageToMidiv1.0_linux64]()**
+**[ImageToMidi_v1.0-linux64](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/ImageToMidi_v1.0-linux64.tar.bz2)**
 
 
-**[ImageToMidiv1.0_linux32]()**
+**[ImageToMidi_v1.0-linux32](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/ImageToMidi_v1.0-linux32.tar.bz2)**
 
 
-**[ImageToMidiv1.0_linux-armv6hf]()**
+**[ImageToMidi_v1.0-linux-armv6hf](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/ImageToMidi_v1.0-linux-armv6hf.tar.bz2)**
 
 ##
 
 **Windows (Requires Java 8) No tested**
 
 
-**[ImageToMidiv1.0_windows64]()**
+**[ImageToMidi_v1.0-windows64](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/ImageToMidi_v1.0-windows64.zip)**
 
 
-**[ImageToMidiv1.0_windows32]()**
+**[ImageToMidi_v1.0-windows32](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/blob/master/ImageToMidi_v1.0-windows32.zip)**
 
 ##
 
