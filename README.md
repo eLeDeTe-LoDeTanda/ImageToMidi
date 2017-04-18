@@ -37,30 +37,30 @@ En un terminal: ` sudo modprobe snd-virmidi ` y conectar el midi virtual elegido
 
 **LINUX (Java inside)**
 
-**[ImageToMidi_v1.0-linux64-with_java8](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/raw/master/ImageToMidi_v1.0-linux64-with_java8.tar.bz2)**
+**[ImageToMidi_v1.0-linux64-with_java8](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/releases/download/V1.0/ImageToMidi_v1.0-linux64-with_java8.tar.bz2)**
 
 ##
 
 **LINUX (Requires Java 8)**
 
 
-**[ImageToMidi_v1.0-linux64](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/raw/master/ImageToMidi_v1.0-linux64.tar.bz2)**
+**[ImageToMidi_v1.0-linux64](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/releases/download/V1.0/ImageToMidi_v1.0-linux64.tar.bz2)**
 
 
-**[ImageToMidi_v1.0-linux32](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/raw/master/ImageToMidi_v1.0-linux32.tar.bz2)**
+**[ImageToMidi_v1.0-linux32](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/releases/download/V1.0/ImageToMidi_v1.0-linux32.tar.bz2)**
 
 
-**[ImageToMidi_v1.0-linux-armv6hf](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/raw/master/ImageToMidi_v1.0-linux-armv6hf.tar.bz2)**
+**[ImageToMidi_v1.0-linux-armv6hf](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/releases/download/V1.0/ImageToMidi_v1.0-linux-armv6hf.tar.bz2)**
 
 ##
 
 **Windows (Requires Java 8) No tested**
 
 
-**[ImageToMidi_v1.0-windows64](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/raw/master/ImageToMidi_v1.0-windows64.zip)**
+**[ImageToMidi_v1.0-windows64](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/releases/download/V1.0/ImageToMidi_v1.0-windows64.zip)**
 
 
-**[ImageToMidi_v1.0-windows32](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/raw/master/ImageToMidi_v1.0-windows32.zip)**
+**[ImageToMidi_v1.0-windows32](https://github.com/eLeDeTe-LoDeTanda/ImageToMidi/releases/download/V1.0/ImageToMidi_v1.0-windows32.zip)**
 
 ##
 
