@@ -60,6 +60,8 @@ int midiin_list_index = 0;
 int midiout_list_index = 1;
 int num_midiout_ports;
 
+File imgfolder;
+
 void setup () {
 
   size(800, 480);
@@ -91,10 +93,10 @@ void draw() {
   image(imagelogo, width - 150, 50);
 
   if (imagetoMidi.width > imagetoMidi.height) { 
-    float i = float(imagetoMidi.width ) / float(imagetoMidi.height); 
+    float i = float(imagetoMidi.width) / float(imagetoMidi.height); 
     image(imagetoMidi, width / 2, height / 1.75, (height / 1.45) * i, height / 1.45);
   } else {
-    float i = float(imagetoMidi.height)/float(imagetoMidi. width ); 
+    float i = float(imagetoMidi.height)/float(imagetoMidi.width); 
     image(imagetoMidi, width / 2, height / 1.75, (height / 1.45) / i, height / 1.45);
   }
 
@@ -222,6 +224,7 @@ void fileSelected(File selection) {
     String path = selection.getAbsolutePath();
     if (path.endsWith("jpg") || path.endsWith("jpeg") || path.endsWith("png") || path.endsWith("gif") || path.endsWith("tga") ) {
       imagetoMidi = loadImage(path);
+      imgfolder = new File (path);
       redraw();
     }
   }

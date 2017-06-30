@@ -71,7 +71,7 @@ void  mousePressed() {
       midiBus.sendNoteOn(midichannel, midiprevnote, midivel);
       redraw();
     }
-    if (mouseButton == RIGHT) selectInput("Select an image:", "fileSelected");
+    if (mouseButton == RIGHT) selectInput("Select an image:", "fileSelected", imgfolder);
     if (mouseButton == CENTER) midiBus.sendControllerChange(midichannel, 123, 123);
     redraw();
   }
