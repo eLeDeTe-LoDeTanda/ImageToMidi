@@ -25,6 +25,8 @@
 
 import themidibus.*;
 
+String os;
+
 PImage imagetoMidi;
 PImage imagelogo;
 
@@ -71,6 +73,10 @@ void setup () {
   noLoop(); 
   imageMode(CENTER);
   cursor(CROSS);
+
+  os = System.getProperty("os.name");
+  os = os.toLowerCase();
+  if (os.indexOf("linux") != -1) os = "LINUX";
 
   midiout_list = MidiBus.availableOutputs()[midiout_list_index];
   num_midiout_ports = MidiBus.availableOutputs().length;
@@ -120,11 +126,15 @@ void draw() {
   fill(100);
   text("-MIDI out-", width / 2, height - 8);
 
+  println(mouseX+"----"+mouseY);
+
   fill(200, 50, 50);
-  text("Linux Jack support: sudo modprobe snd-virmidi", width /1.3 + 30, height -25);
-  text("and connect the selected virtual midi at any midi soft.", width /1.3 + 28, height -10);
+  if (os == "LINUX") text(">Add Virtual MIDI<", width  - 100, height -25);
+  fill(20, 100, 100);
+  text("Connect the selected virtual midi at any midi soft.", width /1.3 + 28, height -10);
+
   textAlign(CORNER);
-  fill(10, 200, 200);
+  fill(100, 200, 50);
   textSize(12);
   text("-1 to 9 (change note mode)", 20, 20);
   text("-Q to O (change velocity mode)", 20, 35);
@@ -286,4 +296,9 @@ boolean imageArea()
 boolean web() 
 {
   return  (mouseX > width - 60 && mouseX < width && mouseY > 60 && mouseY <  100);
+}
+
+boolean virmidi_()
+{
+  return  (mouseX > width - 150 && mouseX < width && mouseY > height - 35 && mouseY < height - 20);
 }

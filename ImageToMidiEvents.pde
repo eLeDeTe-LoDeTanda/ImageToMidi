@@ -75,6 +75,14 @@ void  mousePressed() {
     if (mouseButton == CENTER) midiBus.sendControllerChange(midichannel, 123, 123);
     redraw();
   }
+  if (os == "LINUX") {
+    if (virmidi_()) {
+      if (mouseButton == LEFT) {
+        String cmd[] = {"xterm", "-e", "sudo", "modprobe", "snd-virmidi"};
+        exec(cmd);
+      }
+    }
+  }
 }
 
 void mouseDragged() 
